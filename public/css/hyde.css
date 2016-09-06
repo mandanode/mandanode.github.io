@@ -74,12 +74,12 @@ html {
 .sidebar a {
   color: #fff;
 }
-
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower';
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 3.25rem;
 }
 

@@ -5,6 +5,8 @@ layout: post
 tags: [nodejs, javascript, js]
 categories: [nodejs]
 ---
+
+<img src="http://ctnovatec.com.br/wp-content/uploads/2015/03/nodejs-logo.png">
 Node.js é uma plataforma para desenvolvimento de aplicações server-side baseadas em rede utilizando JavaScript e o V8 JavaScript Engine, ou seja, com Node.js podemos criar uma variedade de aplicações Web utilizando apenas código em JavaScript.
 
 Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em JavaScript pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento Web, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.
