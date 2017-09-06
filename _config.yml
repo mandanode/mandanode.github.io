@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://mandanode.github.io
-title: MANDA NODEJS
+title: MANDA NODE
 tagline: Sério! manda mesmo!
 description: Apenas um blog sobre tecnologia, a vida, o universo e tudo mais
 paginate: 3
